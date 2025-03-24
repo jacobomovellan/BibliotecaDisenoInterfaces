@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0344dbd8-f253-4830-b5d9-b7a1d04a6c76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/BibliotecaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/Escenas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/AgregarLibrosXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaGestionXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BorrarLibrosXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ListarLibrosXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ModificarDatosXML.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/BibliotecaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/BibliotecaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaXML.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +49,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.bibliotecadi.App" />
       <module name="BibliotecaDI" />
       <method v="2">
