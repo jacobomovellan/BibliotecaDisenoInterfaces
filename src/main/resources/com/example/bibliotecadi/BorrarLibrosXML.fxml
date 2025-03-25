@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
 <?import javafx.scene.layout.*?>
 
-<?import javafx.scene.image.ImageView?>
-<?import javafx.scene.image.Image?>
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.bibliotecadi.Escenas">
-    <ImageView fitHeight="388.0" fitWidth="688.0" layoutX="0.0" layoutY="0.0" preserveRatio="false">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.bibliotecadi.Escenas">
+    <ImageView fitHeight="400.0" fitWidth="688.0" layoutX="0.0" layoutY="0.0" preserveRatio="false">
         <image>
             <Image url="https://i.pinimg.com/736x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg" />
         </image>
     </ImageView>
+    <Label layoutX="101.0" layoutY="101.0" style="-fx-font-weight: bold;" text="Introducir el nombre :" textFill="WHITE" />
+    <TextField fx:id="txdEnviarDatos" layoutX="235.0" layoutY="97.0" />
+
+
+    <Label layoutX="111.0" layoutY="159.0" style="-fx-font-weight: bold;" text="Introducir el isbn :" textFill="WHITE" />
+    <TextField fx:id="txdEnviarISBN" layoutX="235.0" layoutY="155.0" />
+
+    <Label layoutX="108.0" layoutY="214.0" style="-fx-font-weight: bold;" text="Introducir el autor :" textFill="WHITE" />
+    <TextField fx:id="txdEnviarAutor" layoutX="235.0" layoutY="210.0" />
+
     <Button layoutX="48.0" layoutY="290.0" onAction="#Volver2ButtonClick" text="VOLVER" textFill="#aa12dc" />
+    <Button fx:id="BotEnviar" layoutX="406.0" layoutY="97.0" onAction="#EnviarButtonClick" text="ENVIAR" textFill="#004b0a" />
+    <Button fx:id="BotEnviar2" layoutX="406.0" layoutY="155.0" onAction="#Enviar2ButtonClick" text="ENVIAR" textFill="#004b0a" />
+    <Button fx:id="BotEnviar3" layoutX="404.0" layoutY="209.0" onAction="#Enviar3ButtonClick" prefHeight="26.0" prefWidth="59.0" text="ENVIAR" textFill="#004b0a" />
 </AnchorPane>

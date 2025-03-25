@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
 
-<?import javafx.scene.image.ImageView?>
-<?import javafx.scene.image.Image?>
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.bibliotecadi.Escenas">
-    <ImageView fitHeight="388.0" fitWidth="688.0" layoutX="0.0" layoutY="0.0" preserveRatio="false">
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.bibliotecadi.Escenas">
+    <ImageView fitHeight="400.0" fitWidth="688.0" layoutX="0.0" layoutY="0.0" preserveRatio="false">
         <image>
             <Image url="https://i.pinimg.com/736x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg" />
         </image>
     </ImageView>
     <Button layoutX="48.0" layoutY="290.0" onAction="#Volver2ButtonClick" text="VOLVER" textFill="#aa12dc" />
+    <Rectangle arcHeight="10" arcWidth="10" fill="#00000099" height="257.0" layoutX="229.0" layoutY="30.0" width="231.0" />
+    <Rectangle arcHeight="10" arcWidth="10" fill="#00000099" height="217.0" layoutX="263.0" layoutY="44.0" width="170.0" />
+    <Label layoutX="281.0" layoutY="126.0" prefHeight="18.0" prefWidth="59.0" style="-fx-font-weight: bold;" text="Titulo :" textFill="WHITE" />
+    <Label layoutX="281.0" layoutY="165.0" style="-fx-font-weight: bold;" text="Autor :" textFill="white" />
+    <Label layoutX="281.0" layoutY="200.0" style="-fx-font-weight: bold;" text="ISBN :" textFill="white" />
+    <Label layoutX="281.0" layoutY="73.0" prefHeight="18.0" prefWidth="135.0" style="-fx-font-weight: bold;" text="LIBRO DE AVENTURAS" textFill="white" />
 </AnchorPane>

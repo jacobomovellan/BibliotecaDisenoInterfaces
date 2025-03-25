@@ -11,10 +11,10 @@
         </image>
     </ImageView>
     <Label layoutX="302.0" layoutY="37.0" style="-fx-font-weight: bold;" text="BIBLIOTECA DI" textFill="WHITE" />
-    <Label layoutX="322.0" layoutY="225.0" style="-fx-font-weight: bold;" text="Biblioteca diseñada a gestionar libros" textFill="WHITE" />
     <Button layoutX="48.0" layoutY="108.0" onAction="#ListarLibrosButtonClick" prefHeight="26.0" prefWidth="95.0" text="LISTAR LIBROS" textFill="#c46900" />
     <Button layoutX="170.0" layoutY="108.0" onAction="#AgregarLibrosButtonClick" text="AGREGAR LIBROS" textFill="#ff0303" />
     <Button layoutX="441.0" layoutY="107.0" onAction="#ModificarDatosButtonClick" prefHeight="26.0" prefWidth="162.0" text="MODIFICAR DATOS LIBROS" textFill="#ec008a" />
     <Button layoutX="314.0" layoutY="108.0" onAction="#BorrarLibrosButtonClick" text="BORRAR LIBROS" textFill="#148c8c" />
+    <Button layoutX="40.0" layoutY="175.0" onAction="#DetallesLibroButtonClick" prefHeight="26.0" prefWidth="110.0" text="DETALLES LIBRO" textFill="#15168a" />
     <Button layoutX="48.0" layoutY="290.0" onAction="#VolverButtonClick" text="VOLVER" textFill="#aa12dc" />
 </AnchorPane>

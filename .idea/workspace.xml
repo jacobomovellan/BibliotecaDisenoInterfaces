@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0344dbd8-f253-4830-b5d9-b7a1d04a6c76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/Escenas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/AgregarLibrosXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaGestionXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BorrarLibrosXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ListarLibrosXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ModificarDatosXML.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/BibliotecaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/BibliotecaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaXML.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/Escenas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bibliotecadi/Escenas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/AgregarLibrosXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/AgregarLibrosXML.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaGestionXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BibliotecaGestionXML.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BorrarLibrosXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/BorrarLibrosXML.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ListarLibrosXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ListarLibrosXML.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ModificarDatosXML.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/bibliotecadi/ModificarDatosXML.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +29,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2um0mtkdNaNhWN7S8QG7ZIGNzlX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.bibliotecadi.App" />
